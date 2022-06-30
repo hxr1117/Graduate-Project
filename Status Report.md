@@ -23,6 +23,7 @@ As well as defining the evaluation: accuracy is evaluated by the ratio of correc
 ## References
 
 Svacina, J., Raffety, J., Woodahl, C., Stone, B., Cerny, T., Bures, M., Shin, D., Frajtak, K. and Tisnovsky, P., 2020, October. On vulnerability and security log analysis: A systematic literature review on recent trends. In *Proceedings of the International Conference on Research in Adaptive and Convergent Systems* (pp. 175-180).
+
 Lin, Q., Zhang, H., Lou, J.G., Zhang, Y. and Chen, X., 2016, May. Log clustering based problem identification for online service systems. In *2016 IEEE/ACM 38th International Conference on Software Engineering Companion (ICSE-C)* (pp. 102-111). IEEE.Vancouver
 
 Zhu, J., He, S., Liu, J., He, P., Xie, Q., Zheng, Z. and Lyu, M.R., 2019, May. Tools and benchmarks for automated log parsing. In *2019 IEEE/ACM 41st International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)*  (pp. 121-130). IEEE.
