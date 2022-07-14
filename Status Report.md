@@ -24,6 +24,7 @@ As well as defining the evaluation: accuracy is evaluated by calculating F-measu
 
 Is it fine to analyse [Apache Web Log](https://github.com/logpai/loghub/tree/master/Apache)? 
 
+
 ## References
 
 Svacina, J., Raffety, J., Woodahl, C., Stone, B., Cerny, T., Bures, M., Shin, D., Frajtak, K. and Tisnovsky, P., 2020, October. On vulnerability and security log analysis: A systematic literature review on recent trends. In *Proceedings of the International Conference on Research in Adaptive and Convergent Systems* (pp. 175-180).
