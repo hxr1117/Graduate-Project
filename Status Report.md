@@ -4,7 +4,7 @@ Real-time log analysis in cloud environment
 
 ## Background
 
-Most current systems generate a large number of logs at runtime, which record a lot of important security information. A cloud environment, on the other hand, reduces costs, increases computing speed and is more reliable. The aim of this project is to perform real-time log detection in the cloud and alert administrators when abnormal behaviour occurs. Current log analysis methods are unsupervised and supervised, and the more common of the unsupervised methods are clustering and PCA. **For this project, I decided to use the unsupervised clustering method to analyse the widely used [apache logs]([loghub/Apache at master · logpai/loghub · GitHub](https://github.com/logpai/loghub/tree/master/Apache)) in LogHub.**
+Most current systems generate a large number of logs at runtime, which record a lot of important security information. A cloud environment, on the other hand, reduces costs, increases computing speed and is more reliable. The aim of this project is to perform real-time log detection in the cloud and alert administrators when abnormal behaviour occurs. Current log analysis methods are unsupervised and supervised, and the more common of the unsupervised methods are clustering and PCA. **For this project, I decided to use the unsupervised clustering method to analyse the widely used [apache logs](https://github.com/logpai/loghub/tree/master/Apache) in LogHub.**
 
 ## Methodology
 
@@ -22,7 +22,7 @@ As well as defining the evaluation: accuracy is evaluated by calculating F-measu
 
 ## Remaining Questions
 
-Is it fine to analyse [Apache Web Log]([loghub/Apache at master · logpai/loghub · GitHub](https://github.com/logpai/loghub/tree/master/Apache))? Not sure whether to analyse exceptions in all logs or look for them in the error logs.
+Is it fine to analyse [Apache Web Log](https://github.com/logpai/loghub/tree/master/Apache)? 
 
 ## References
 
